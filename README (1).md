@@ -3,6 +3,7 @@
 
 An “entity” refers to something that exists as a distinct and independent unit. An entity contains attributes, which describe that entity. So anything about which we store information is called an entity. Entities are recorded in the database and must be distinguishable, i.e., easily recognized from the group.
 For example: A student, An employee, or bank a/c, etc. all are entities.
+![Entity](https://github.com/Bhanu-singh1/Entity/assets/155048175/472f3a1a-20e8-4e62-abf7-e977baf16cb1)
 
 ![Screenshot](Entity.png)
 
